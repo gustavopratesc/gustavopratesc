@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Gustavo Prates Caetano
-**Desenvolvedor Frond-end**
+**Analista de dados**
 
-**`Meta FullStack`**
 
-Olá, me chamo Gustavo Prates Caetano e atualmente curso Sistemas de Informação na Faculdade Unex. Pretendo aprimorar minhas habilidades como desenvolvedor front-end e me qualificar como desenvolvedor fullstack.
+
+Olá, me chamo Gustavo Prates Caetano e atualmente estou cursando Sistemas de Informação na Faculdade Unex. Pretendo aprimorar minhas habilidades em data analytics e me qualificar como um bom Analista de dados.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -34,11 +34,11 @@ Olá, me chamo Gustavo Prates Caetano e atualmente curso Sistemas de Informaçã
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
