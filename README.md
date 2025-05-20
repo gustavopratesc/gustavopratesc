@@ -1,9 +1,9 @@
 # 👨🏻‍💻 Gustavo Prates Caetano
-**Analista de dados**
+**Desenvolvedor de Software**
 
 
 
-Olá, me chamo Gustavo Prates Caetano e atualmente estou cursando Sistemas de Informação na Faculdade Unex. Pretendo aprimorar minhas habilidades em data analytics e me qualificar como um bom Analista de dados.
+Olá, me chamo Gustavo Prates Caetano e atualmente estou cursando Sistemas de Informação na Faculdade Unex. Pretendo aprimorar minhas habilidades em desenvolvimento e me qualificar como um Desenvolvedor de Software.
 
 ### 🤖 Linguagens e Tecnologias
 
